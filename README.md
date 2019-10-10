@@ -24,8 +24,8 @@
 
 ## python関連
 
-[Python命名規則一覧](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
-[matplotlibで忘れがちな文法まとめ](https://qiita.com/okadate/items/00227316187b60f861f5)
-[早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話](https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9)
-[（インターン向けに書いた）Pythonパッケージを作る方法](https://qiita.com/Kensuke-Mitsuzawa/items/7717f823df5a30c27077)
-[\[Python入門\] 覚えておくと得するかもしれない書き方集](https://qiita.com/tyokuyoku/items/ed2a7081d59958adaeb9)
+* [Python命名規則一覧](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
+* [matplotlibで忘れがちな文法まとめ](https://qiita.com/okadate/items/00227316187b60f861f5)
+* [早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話](https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9)
+* [（インターン向けに書いた）Pythonパッケージを作る方法](https://qiita.com/Kensuke-Mitsuzawa/items/7717f823df5a30c27077)
+* [\[Python入門\] 覚えておくと得するかもしれない書き方集](https://qiita.com/tyokuyoku/items/ed2a7081d59958adaeb9)
