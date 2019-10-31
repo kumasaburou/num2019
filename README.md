@@ -1,3 +1,6 @@
+こんにちは。
+
+
 # num2019
 
 Hello kumasaburo
@@ -7,8 +10,12 @@ Hello kumasaburo
 * LU分解について
 * 担当：坂本
 
+出欠確認
+urashimakametarou
 
+ 
 
+武井
 # 進め方(案)
 
 1. 担当は自分のテーマについて予習する．
@@ -20,6 +27,7 @@ Hello kumasaburo
 5. それぞれbranchを切って自分なりにコーディングする．
 6. いい感じに実装できたところをmasterにする．
 
+vimでこれ描いてみました。褒めて褒めて。
 
 
 # 資料
