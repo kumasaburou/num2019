@@ -1,11 +1,6 @@
 こんにちは。
 
-hogehoge
-hagehage
-hogehoge2
 # num2019
-
-Hello kumasaburo
 
 * 第1回
 * 10月10日 午後から
