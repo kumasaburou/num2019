@@ -1,8 +1,6 @@
 # num2019
 
-hogehoge
-
-hogehoge2
+Hello kumasaburo
 
 * 第1回
 * 10月10日 午後から
