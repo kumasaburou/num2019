@@ -6,6 +6,10 @@ Hello kumasaburo
 * 10月10日 午後から
 * LU分解について
 * 担当：坂本
+
+出欠確認
+urashimakametarou
+
  
 
 
