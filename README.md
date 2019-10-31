@@ -1,16 +1,23 @@
-# num2019
+こんにちは。
 
 hogehoge
 hagehage
 hogehoge2
+# num2019
+
+Hello kumasaburo
 
 * 第1回
 * 10月10日 午後から
 * LU分解について
 * 担当：坂本
+
+出欠確認
+urashimakametarou
+
  
 
-
+武井
 # 進め方(案)
 
 1. 担当は自分のテーマについて予習する．
@@ -22,6 +29,7 @@ hogehoge2
 5. それぞれbranchを切って自分なりにコーディングする．
 6. いい感じに実装できたところをmasterにする．
 
+vimでこれ描いてみました。褒めて褒めて。
 
 
 # 資料
