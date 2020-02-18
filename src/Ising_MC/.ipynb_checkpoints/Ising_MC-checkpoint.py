@@ -37,8 +37,8 @@ def diff_flip(arr_spin, n0, n1, i, j, coupling, ex_field):
     return 2*fliped
 
 def magnetization_plot(size_lat, temp_min, temp_max, coupling, ex_field):
-    num_update = 100
-    num_update_sub = 100
+    num_update = 400
+    num_update_sub = 400
     sampling_interval = 10
     num_step = 100
     mag_lst =[]
